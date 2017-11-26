@@ -1,0 +1,2 @@
+sleep 2.8s
+touch file_{A..Z}

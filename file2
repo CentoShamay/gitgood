@@ -1,0 +1,3 @@
+touch name && echo $USER>name
+sleep 4s
+echo $USER
